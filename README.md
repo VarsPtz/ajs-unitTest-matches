@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/2113xghnjiaeasm5?svg=true)](https://ci.appveyor.com/project/VarsPtz/ajs-unittest-cleanfunction)
+[![Build status](https://ci.appveyor.com/api/projects/status/5jhl0vdvma1ermni?svg=true)](https://ci.appveyor.com/project/VarsPtz/ajs-unittest-matches)
 
 # Домашнее задание к лекции «Unit-тестирование»
 
